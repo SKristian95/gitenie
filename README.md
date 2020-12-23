@@ -3,3 +3,5 @@
 nejaky prispevok
 
 a toto je takeiž text 
+
+a taktiez aj toto je text posledny
